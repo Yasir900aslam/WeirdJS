@@ -2,7 +2,7 @@
   "name": "weirdjs",
   "version": "1.0.0",
   "description": "Don't try to understand it, feel it. ",
-  "main": "Weird.js",
+  "main": "weird.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
