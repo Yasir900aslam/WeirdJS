@@ -19,3 +19,12 @@ if (function f(){}) {
     x += typeof f;
 }
 x;
+
+
+//Nested-Immediately-Invoked Function Expression (IIFE)
+(function name(b) {
+    (function nameb(a )
+        {
+            console.log(a + b )
+        }(2));
+}(1));
